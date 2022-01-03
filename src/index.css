@@ -1,0 +1,88 @@
+h1 {
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  font-size: 40px;
+}
+header {
+  display: flex;
+  justify-content: end;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+button {
+  font-family: "Roboto Mono", monospace;
+  padding: 8px 16px;
+  outline: none;
+}
+.avatar {
+  height: 250px;
+  margin-bottom: 40px;
+}
+.body-bottom {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.text-centered {
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  font-weight: 100;
+}
+.contact-button {
+  background-color: #ffffff;
+  border: solid 3px #df95fe;
+  border-radius: 8px;
+}
+.enter-button {
+  background-color: #df95fe;
+  color: #ffffff;
+  border-radius: 8px;
+  width: 130px;
+  border: none;
+  margin: 0px auto 50px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+}
+.arrow-right{
+    width: 24px;
+    margin-left: 8px;
+}
+.desk-area-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+.desk-area{
+    display: flex;
+    height: 200px;
+    align-items: flex-end;
+}
+.phone{
+    height: 80px;
+    margin-bottom: 8px;
+}
+.desktop{
+    height: 200px;
+    margin-right: 24px;
+}
+.laptop{
+    width: 150px;
+    margin-bottom: -21px;
+}
+.coffee{
+    height: 55px;
+    margin-bottom: 8px;
+}
+.plant{
+    height: 100px;
+    margin: 6px;
+    margin-left: 50px;
+}
+.desk{
+    height: 150px;
+    background-color: #df95fe;
+    margin: -8px;
+}
+
+
